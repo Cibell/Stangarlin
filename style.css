@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@;200;300;400;600&family=Roboto:wght@400;900&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+* { 
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+}
+:root {
+    --dark-blue: #1d1d1d;
+    --light-grey: #bfbfc1;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+h1 {
+    font-size: 70px;
+    font-weight: 200;
+   
+}
+h3{
+    font-weight: 400;
+}
+.iphone-container {
+    width: 350px;
+    height: 700px;
+    border-radius: 45px;
+    border:  20px solid #111;
+    background: var(--dark-blue);
+    position: relative;
+    color: #FFF;
+    text-align: center;
+    padding: 100px 20px 50px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.iphone-container .nocht {
+    height: 30px;
+    width: 180px;
+    background: #111;
+    border-radius: 0 0 30px 30px;
+    position: absolute;
+    top: 0;
+    left: calc(50% - 90px);
+   
+
+}
+.iphone-container .iphone-menu {
+    width: 90px;
+    height: 3px;
+    background: var(--light-grey);
+    border-radius: 8px;
+    position: absolute;
+    bottom: 20px;
+    left: calc(50% - 45px);
+    
+}
+.iphone-container .top-icon {
+    width: 50px;
+    height: 50px;
+}
+.iphone-container .city-name {
+    font-weight: 300;
+    color: var(--light-grey);
+}
+.iphone-container .week {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.iphone-containe .week .day .temperature {
+    font-weight: 300;
+    font-size: 14px;
+}
+.iphone-container .weekday{
+    font-weight: 300;
+    font-size: 15px;
+}
+.iphone-container .footer {
+    display: flex;
+    justify-content: space-between;
+}
+.iphone-container .footer svg {
+    width: 30px;
+    height: 30px;
+}
