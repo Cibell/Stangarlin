@@ -23,7 +23,7 @@ Utilizei como ferramenta o [VSCode](https://code.visualstudio.com/) e instalei o
   
 
 # :pencil: Autor
-<img src="https://github.com/Cibell/interface-burguer-order/blob/master/src/assets/Cibele%20desenvolvedora%20front-end.jpeg?raw=true">
+<img src="https://github.com/Cibell/interface-burguer-order/blob/master/src/assets/Cibele%20desenvolvedora%20front-end.jpeg?raw=true"  width="100px;">
 
 # :closed_book: Licença
 
