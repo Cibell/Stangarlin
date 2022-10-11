@@ -27,5 +27,5 @@ Utilizei como ferramenta o [VSCode](https://code.visualstudio.com/) e instalei o
 
 # :closed_book: Licença
 
-Lançado em 2022. Este projeto está sob a ![APM](https://img.shields.io/apm/l/dev)<br>
+Lançado em 2021. Este projeto está sob a ![APM](https://img.shields.io/apm/l/dev)<br>
 Made with love by [Cibele Cordeiro](https://github.com/Cibell) 💜🚀
